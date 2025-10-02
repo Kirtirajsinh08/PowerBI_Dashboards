@@ -1,8 +1,4 @@
 
-- `data/`: Raw data and lookup files  
-- `PowerBI/`: Final `.pbix` dashboard files
-
----
 
 ## 🚀 Getting Started
 
@@ -24,15 +20,6 @@
 - **Microsoft Power BI Desktop**
 - Data sources: **Excel**, **CSV**, or **SQL Server**
 - (Optional) Lightweight **DAX** or query transformations
-
----
-
-## 📈 Use Cases
-
-- Monitoring monthly/quarterly financial performance  
-- Comparing region/product-based revenue trends  
-- Assessing profitability and cost metrics at glance  
-- Enabling financial decision support for stakeholders  
 
 ---
 
